@@ -1,0 +1,1 @@
+Software to caclulate the complete eliptic integral of first kind for pendulum in large-amplitude oascilations. Be aware that the angle is half of the angle used in usual elliptic integrasl of first kind 
